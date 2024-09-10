@@ -1,5 +1,6 @@
 # Karel Assignment
 
+[Watch the video on YouTube](https://youtu.be/6eFUpN5r-8w?si=neGq_g9CDSiofKu2)
 
 
 ## 📚 Project Overview
